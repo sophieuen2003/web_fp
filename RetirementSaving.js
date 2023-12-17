@@ -1,5 +1,5 @@
 function calculateSaving() {
-  alert("本計算機不會儲存您的任何資料，請放心使用！！");
+  alert("退休對你來說太遠嗎？不如就趁現在讓Hoya狼幫你提前做規劃吧");
   age = Number(document.getElementById("age").value);
   retirementAge = Number(document.getElementById("retirementAge").value);
   lifeYear = Number(document.getElementById("lifeYear").value);
